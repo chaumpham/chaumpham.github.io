@@ -1,6 +1,6 @@
 ---
+layout:post 
 title: Ultramarathon Analysis
-date: 2025-05-03
 tags: [dataanalysis]     # TAG names should always be lowercase
 ---
 On March 29, 2025, I ran my first ultramarathon, a 50K race along Chicago’s scenic lakefront trail. It was my first time running further than the marathon distance, and my goal was simply to finish. The final 10 miles were especially tough, but I made it to the finish line!
