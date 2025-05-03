@@ -32,5 +32,5 @@ My hunch was that older runners might outperform younger ones. Anecdotally, I wa
 
 ## 📊 Who Showed Up and Finished?
 
-![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png)
-![Chart 1](/assets/img/ultra_analysis/race-finishers-bar-chart.png)
+![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){: width="250" }
+![Chart 1](/assets/img/ultra_analysis/race-finishers-bar-chart.png){: width="250" }
