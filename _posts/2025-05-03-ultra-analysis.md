@@ -34,5 +34,65 @@ My hunch was that older runners might outperform younger ones. Anecdotally, I wa
 
 ## 📊 Who Showed Up and Finished?
 
-![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){:width="250"}
-![Chart 1](/assets/img/ultra_analysis/race-finishers-bar-chart.png){:width="250"}
+<img src="/assets/img/ultra_analysis/race-registrants-bar-chart.png" alt="Chart 1" width="350">
+<img src="/assets/img/ultra_analysis/race-finishers-bar-chart.png" alt="Chart 2" width="350">
+
+The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with men outnumbering women roughly 3:1. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
+
+Despite this, women had a slightly higher completion rate: 82% vs. 80% for men. While the difference is small, it speaks to the grit and determination of the female runners. That said, I’d like to do more research to see how an 80% finish rate compares to other endurance events, like marathons or similar ultra races.
+
+## 🕒 How Fast Did People Run?
+
+Surprisingly, both men and women had the same median finish time: 5 hours and 49 minutes. What are the odds?
+
+When looking at average finish times, men finished slightly faster (6:01 vs. 6:05 for women). The 4-minute difference is small and could be due to pacing strategies, experience, or external factors like weather.
+
+## ⚖️ Why Standard Deviation Matter More Than Just Averages
+The spread of finish times offers more insight than averages alone. The standard deviation for women was 1 hour and 31 minutes, compared to 1 hour and 18 minutes for men. This indicates a broader range of performance among female runners.
+
+Box plots help visualize this spread. Women’s finish times skewed more toward the slower end—their upper whisker extended far past the third quartile. Men’s results were more evenly distributed.
+
+Sample skewness quantified this: 1.47 for women and 1.04 for men. Both distributions are right-skewed, but women’s results were more asymmetric. Histogram charts reinforce this, with both distributions leaning toward slower runners.
+
+In plain terms, women had a wider range of finish times, while men were more tightly clustered around the average. This could reflect a broader spectrum of goals, experience, or pacing strategies among female participants.
+
+## 📊 Age and Performance
+
+Let’s dig into finish times by age group.
+
+For men, performance was remarkably consistent. From ages 18 to 59, average finish times stayed within a 30-minute window: 5:35 to just under 6:00. The 30–39 age group was fastest (5:33), followed by 18–29 (5:35) and 50–59 (5:45).
+
+Women showed greater variation—nearly an hour difference across the same age span. But some age groups had fewer than five participants, so conclusions should be cautious.
+
+The takeaway? Youth doesn't guarantee speed. In ultra-distance races, experience, mindset, and strategy often matter more than raw physical ability. Many of the most consistent and fastest runners were in their 40s and 50s.
+
+## 🎻 Bonus: Exploring Distribution with Violin Plots
+
+To better understand variability, I used violin plots, which combine boxplots with mirrored density curves to show both spread and shape.
+
+Interesting patterns emerged:
+
+- Men aged 30–39 had the most consistent performance. Their finish times were tightly clustered with minimal spread.
+- The 30s, 40s, and 50s male groups all showed bimodal distributions, with most finishing around the mean and a few individuals finishing much slower.
+- Younger men (18–29) had more variance than their older peers. This was unexpected, given their physiological advantage.
+- Women aged 18–29 had one of the narrowest distributions, while performance variability increased with age. This may reflect a mix of factors: physiological differences, training approaches, or the smaller sample size of older female participants.
+
+Beyond age 50, both male and female finish times stretched out. Some runners were still zipping along, but many took longer to finish. One male participant crossed the line at 9 hours. Gotta give him full respect!
+
+## 💡 Revisiting My Assumptions
+
+**1. How many people finished the race?**
+
+It’s encouraging to see that, despite being underrepresented, women showed remarkable grit—finishing at a slightly higher rate than men. That resilience stands out in a field still largely dominated by male runners.
+
+**2. Are there performance differences between male and female runners?**
+
+I expected men to be faster overall due to both physiological factors and the sport’s male-skewed participation. While the data confirmed a slight edge in men’s finish times, I was glad to see the gap was small—and that women performed competitively across multiple age groups.
+
+**3. Does age impact performance?**
+
+I was partly right: the women’s 40s group outpaced their 30s peers. But what really surprised me was how strong the 40s and 50s divisions were overall. Some of the most consistent and fastest times came from these age groups—proving that in ultra-distance running, experience and endurance often beat youth.
+
+## 💭 Discussion 
+
+What stood out to you? Did anything surprise you? I’d love to hear your thoughts—drop a comment or share your take!
