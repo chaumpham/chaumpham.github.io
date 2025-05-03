@@ -1,5 +1,5 @@
 ---
-layout:post 
+layout: post 
 title: Ultramarathon Analysis
 tags: [dataanalysis]     # TAG names should always be lowercase
 ---
