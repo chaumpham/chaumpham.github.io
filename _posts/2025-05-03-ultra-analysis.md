@@ -12,7 +12,9 @@ This blog shares some of the insights I uncovered.
 ## ⚡ Key Takeaways (TLDR Version)
 
 **1. Age isn’t a limitation, it’s an asset:** Some of the most consistent and fastest finish times came from runners in their 30s, 40s, and even 50s. Men, in particular, showed remarkable consistency, with average finish times staying within a 30-minute range across ages 18 to 59.
+
 **2. Women hold their ground in ultras:** Despite making up just a third of participants, women had a slightly higher completion rate and performed competitively across age groups. While small sample sizes limit broad conclusions, the data suggests women are more than capable of keeping pace with their male counterparts.
+
 **3. Variability reveals the deeper story:** Looking beyond averages to examine variance, skewness, and distribution helps uncover the real dynamics of the race, highlighting everything from experience gaps and participation trends.
 
 ## 🤔 Questions I Asked Before Looking at the Data
@@ -32,5 +34,5 @@ My hunch was that older runners might outperform younger ones. Anecdotally, I wa
 
 ## 📊 Who Showed Up and Finished?
 
-![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){: width="250" }
-![Chart 1](/assets/img/ultra_analysis/race-finishers-bar-chart.png){: width="250" }
+![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){:width="250"}
+![Chart 1](/assets/img/ultra_analysis/race-finishers-bar-chart.png){:width="250"}
