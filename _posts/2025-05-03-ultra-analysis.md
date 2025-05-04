@@ -17,42 +17,27 @@ This blog shares some of the insights I uncovered.
 
 **3. Variability reveals the deeper story:** Looking beyond averages to examine variance, skewness, and distribution helps uncover the real dynamics of the race, highlighting everything from experience gaps and participation trends.
 
-## 🤔 Questions I Asked Before Looking at the Data
-
-As a runner, I had a few hypotheses going into this analysis:
-
-**1. How many people finished the race?**
-
-I expected a high finisher rate. Ultra running tends to attract highly motivated athletes who train seriously, unlike marathons, which can attract more casual participants checking off a bucket-list goal.
-
-**2. Are there performance differences between male and female runners?**
-
-I assumed men would be faster overall, due to biological factors and the fact that ultra running is still a male-dominated sport. 
-
-**3. Does age impact performance?**
-My hunch was that older runners might outperform younger ones. Anecdotally, I was passed by many seasoned runners during the race. It was humbling and very motivating! 😅
-
 ## 📊 Who Showed Up and Finished?
 
 <div style="text-align: left;">
   <img src="/assets/img/ultra_analysis/race-registrants-bar-chart.png" 
        alt="Bar chart showing number of race registrants by gender across multiple years" 
-       width="350">
+       width="380">
   <img src="/assets/img/ultra_analysis/race-finishers-bar-chart.png" 
        alt="Bar chart showing number of race finishers by gender across multiple years" 
-       width="350">
+       width="380">
 </div>
 
 The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with men outnumbering women roughly 3:1. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
 
-![Chart 3](/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png){:width="350"}
+![Chart 3](/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png){:width="380"}
 
 Despite this, women had a slightly higher completion rate: 82% vs. 80% for men. While the difference is small, it speaks to the grit and determination of the female runners. That said, I’d like to do more research to see how an 80% finish rate compares to other endurance events, like marathons or similar ultra races.
 
 ## 🕒 How Fast Did People Run?
 
-![Chart 4](/assets/img/ultra_analysis/histogram-of-finish-times-female.png){:width="350"}
-![Chart 5](/assets/img/ultra_analysis/histogram-of-finish-times-male.png){:width="350"}
+![Chart 4](/assets/img/ultra_analysis/histogram-of-finish-times-female.png){:width="600"}
+![Chart 5](/assets/img/ultra_analysis/histogram-of-finish-times-male.png){:width="600"}
 
 Surprisingly, both men and women had the same median finish time: 5 hours and 49 minutes. What are the odds?
 
@@ -60,7 +45,7 @@ When looking at average finish times, men finished slightly faster (6:01 vs. 6:0
 
 ## ⚖️ Why Standard Deviation Matter More Than Just Averages
 
-![Chart 6](/assets/img/ultra_analysis/finishing-time-quartile-box-plot.png){:width="350"}
+![Chart 6](/assets/img/ultra_analysis/finishing-time-quartile-box-plot.png){:width="400"}
 
 The spread of finish times offers more insight than averages alone. The standard deviation for women was 1 hour and 31 minutes, compared to 1 hour and 18 minutes for men. This indicates a broader range of performance among female runners.
 
@@ -72,7 +57,7 @@ In plain terms, women had a wider range of finish times, while men were more tig
 
 ## 📊 Age and Performance
 
-![Chart 7](/assets/img/ultra_analysis/finish-time-trends-by-age-group-mean-std.png){:width="350"}
+![Chart 7](/assets/img/ultra_analysis/finish-time-trends-by-age-group-mean-std.png){:width="600"}
 
 Let’s dig into finish times by age group.
 
@@ -84,7 +69,7 @@ The takeaway? Youth doesn't guarantee speed. In ultra-distance races, experience
 
 ## 🎻 Bonus: Exploring Distribution with Violin Plots
 
-![Chart 8](/assets/img/ultra_analysis/violin-chart.png){:width="350"}
+![Chart 8](/assets/img/ultra_analysis/violin-chart.png){:width="600"}
 
 To better understand variability, I used violin plots, which combine boxplots with mirrored density curves to show both spread and shape.
 
