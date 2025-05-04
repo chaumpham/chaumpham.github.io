@@ -35,8 +35,8 @@ My hunch was that older runners might outperform younger ones. Anecdotally, I wa
 ## 📊 Who Showed Up and Finished?
 
 
-![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){:width="350"}
-![Chart 2](/assets/img/ultra_analysis/race-finishers-bar-chart.png){:width="350"}
+![Chart 1](/assets/img/ultra_analysis/race-registrants-bar-chart.png){:width="350"; text-align: left}
+![Chart 2](/assets/img/ultra_analysis/race-finishers-bar-chart.png){:width="350"; text-align: left}
 
 The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with men outnumbering women roughly 3:1. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
 
