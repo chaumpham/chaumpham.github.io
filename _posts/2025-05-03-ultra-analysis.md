@@ -3,11 +3,9 @@ layout: post
 title: Ultramarathon Analysis
 tags: [dataanalysis]     # TAG names should always be lowercase
 ---
-On March 29, 2025, I ran my first ultramarathon, a 50K race along Chicago’s scenic lakefront trail. It was my first time running further than the marathon distance, and my goal was simply to finish. The final 10 miles were especially tough, but I made it to the finish line!
+On March 29, 2025, I ran my first ultramarathon, a [50K race](https://www.runrace.net/findarace.php?id=25088IL1&tab=a3) along Chicago’s scenic lakefront trail. It was my first time running further than the marathon distance, and my goal was simply to finish. The final 10 miles were especially tough, but I made it to the finish line!
 
-Since I love digging into data, I naturally downloaded the official race results and registration data to explore who ran the race and how we all performed.
-
-This blog shares some of the insights I uncovered.
+Since I love digging into data, I naturally downloaded the official race results and registration data to explore who ran the race and how we all performed. This blog shares some of the insights I uncovered.
 
 ## ⚡ Key Takeaways (TLDR Version)
 
@@ -28,16 +26,16 @@ This blog shares some of the insights I uncovered.
        width="380">
 </div>
 
-The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with men outnumbering women roughly 3:1. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
+The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with **men outnumbering women roughly 3:1**. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
 
 ![Chart 3](/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png){:width="380"}
 
-Despite this, women had a slightly higher completion rate: 82% vs. 80% for men. While the difference is small, it speaks to the grit and determination of the female runners. That said, I’d like to do more research to see how an 80% finish rate compares to other endurance events, like marathons or similar ultra races.
+Despite this, **women had a slightly higher completion rate: 82% vs. 80% for men**. While the difference is small, it speaks to the grit and determination of the female runners. That said, I’d like to do more research to see how an 80% finish rate compares to other endurance events, like marathons or similar ultra races.
 
 ## 🕒 How Fast Did People Run?
 
-![Chart 4](/assets/img/ultra_analysis/histogram-of-finish-times-female.png){:width="550"}
-![Chart 5](/assets/img/ultra_analysis/histogram-of-finish-times-male.png){:width="550"}
+![Chart 4](/assets/img/ultra_analysis/histogram-of-finish-times-female.png){:width="500"}
+![Chart 5](/assets/img/ultra_analysis/histogram-of-finish-times-male.png){:width="500"}
 
 Surprisingly, both men and women had the same median finish time: **5 hours and 49 minutes**. What are the odds?
 
@@ -45,7 +43,7 @@ When looking at average finish times, **men finished slightly faster (6:01 vs. 6
 
 ## ⚖️ Why Standard Deviation Matter More Than Just Averages
 
-![Chart 6](/assets/img/ultra_analysis/finishing-time-quartile-box-plot.png){:width="400"}
+![Chart 6](/assets/img/ultra_analysis/finishing-time-quartile-box-plot.png){:width="380"}
 
 The spread of finish times offers more insight than averages alone. The standard deviation for women was **1 hour and 31 minutes**, compared to **1 hour and 18 minutes** for men. This indicates a broader range of performance among female runners.
 
@@ -75,7 +73,7 @@ To better understand variability, I used violin plots, which combine boxplots wi
 
 Interesting patterns emerged:
 
-- Men aged 30–39 had the most consistent performance. Their finish times were tightly clustered with minimal spread.
+- **Men aged 30–39 had the most consistent performance**. Their finish times were tightly clustered with minimal spread.
 - The 30s, 40s, and 50s male groups all showed bimodal distributions, with most finishing around the mean and a few individuals finishing much slower.
 - Younger men (18–29) had more variance than their older peers. This was unexpected, given their physiological advantage.
 - Women aged 18–29 had one of the narrowest distributions, while performance variability increased with age. This may reflect a mix of factors: physiological differences, training approaches, or the smaller sample size of older female participants.
