@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+![Bio Image](/assets/img/chau_bio_photo.jpeg){:width="450"}
+
 My name is Chau, and I’m a freelance data consultant. Before starting my own business, I worked as a Product Manager at Toast and as a Business Analyst at Amazon. I love solving problems, making sense of messy data, and turning insights into clear, compelling stories. I have always been drawn to both data and design, and I’m especially excited by projects that let me combine analytical thinking with creativity to build solutions that are practical, intuitive, and empower users to find answers on their own.
 
 I graduated from the University of Chicago with a Bachelor’s degree in Economics and began my data career at Morningstar as a Data Analyst. That’s where I developed my technical foundation in SQL and Python and learned to approach analysis with a research mindset. I typically start with a hypothesis and let the data guide me from there. Over time, I shifted my focus to building dashboards that help business and product teams access their data and move faster. I’m experienced in tools like Tableau and Power BI, and I enjoy working with the people who use my dashboards just as much as building them. 
