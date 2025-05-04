@@ -34,18 +34,20 @@ My hunch was that older runners might outperform younger ones. Anecdotally, I wa
 
 ## 📊 Who Showed Up and Finished?
 
-<img src="/assets/img/ultra_analysis/race-registrants-bar-chart.png" 
-     alt="Bar chart showing number of race finishers by gender across multiple years" 
-     width="250" 
-     style="float: left; margin-right: 20px; margin-bottom: 10px;">
-<img src="/assets/img/ultra_analysis/race-finishers-bar-chart.png" 
-     alt="Bar chart showing number of race finishers by gender across multiple years" 
-     width="250" 
-     style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<div style="text-align: left;">
+  <img src="/assets/img/ultra_analysis/race-registrants-bar-chart.png" 
+       alt="Bar chart showing number of race registrants by gender across age groups" 
+       width="250">
+</div>
+<div style="text-align: left;">
+  <img src="/assets/img/ultra_analysis/race-finishers-bar-chart.png" 
+       alt="Bar chart showing number of race finishers by gender across age groups" 
+       width="250">
+</div>
 
 The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with men outnumbering women roughly 3:1. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
 
-<img src="/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png" alt="Chart 3" width="340" style="display: block; margin: 0;" align="left">
+<img src="/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png" alt="Chart 3" width="340">
 
 Despite this, women had a slightly higher completion rate: 82% vs. 80% for men. While the difference is small, it speaks to the grit and determination of the female runners. That said, I’d like to do more research to see how an 80% finish rate compares to other endurance events, like marathons or similar ultra races.
 
