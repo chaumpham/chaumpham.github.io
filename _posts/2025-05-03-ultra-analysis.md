@@ -3,17 +3,17 @@ layout: post
 title: Ultramarathon Analysis
 tags: [dataanalysis]     # TAG names should always be lowercase
 ---
-On March 29, 2025, I ran my first ultramarathon, a [50K race](https://www.runrace.net/findarace.php?id=25088IL1&tab=a3) along Chicago’s scenic lakefront trail. It was my first time running further than the marathon distance, and my goal was simply to finish. The final 10 miles were especially tough, but I made it to the finish line!
+On March 29, 2025, I ran my first ultramarathon, a [50K race](https://www.runrace.net/findarace.php?id=25088IL1&tab=a3) along Chicago’s scenic lakefront trail. It was my first time running further than the marathon distance, and I made it to the finish line!
 
-Since I love digging into data, I naturally downloaded the official race results and registration data to explore who ran the race and how we all performed. This blog shares some of the insights I uncovered.
+Since I love digging into data, I naturally downloaded the official [race results](https://www.runrace.net/findarace.php?id=25088IL1&tab=a4&results=20614#dRlt) and registration data to explore who ran the race and how we all performed. This blog shares some of the insights I uncovered.
 
-## ⚡ Key Takeaways (TLDR Version)
+## ⚡ Key Takeaways (TLDR)
 
 **1. Age isn’t a limitation, it’s an asset:** Some of the most consistent and fastest finish times came from runners in their 30s, 40s, and even 50s. Men, in particular, showed remarkable consistency, with average finish times staying within a 30-minute range across ages 18 to 59.
 
-**2. Women hold their ground in ultras:** Despite making up just a third of participants, women had a slightly higher completion rate and performed competitively across age groups. While small sample sizes limit broad conclusions, the data suggests women are more than capable of keeping pace with their male counterparts.
+**2. Women hold their ground:** Despite making up just a third of participants, women had a slightly higher completion rate and performed competitively across age groups. While small sample sizes limit broad conclusions, the data suggests women are more than capable of keeping pace with their male counterparts.
 
-**3. Variability reveals the deeper story:** Looking beyond averages to examine variance, skewness, and distribution helps uncover the real dynamics of the race, highlighting everything from experience gaps and participation trends.
+**3. Variability reveals the deeper story:** Looking beyond averages to examine variance, skewness, and distribution helps uncover the real dynamics of the race.
 
 ## 📊 Who Showed Up and Finished?
 
@@ -26,7 +26,7 @@ Since I love digging into data, I naturally downloaded the official race results
        width="380">
 </div>
 
-The largest demographic was the 40–49 age group, which made up 37% (33 of 89) of the field. Ultra running remains male-dominated, with **men outnumbering women roughly 3:1**. This imbalance was consistent across all age groups but especially noticeable among younger runners (18–39).
+This year, 89 people registered for the race, and 72 crossed the finish line. The largest age group represented was 40–49, which accounts for 37% of all participants (33 out of 89). Ultrarunning continues to be male-dominated, with men outnumbering women by about 2 to 1. This pattern was consistent across all age groups but especially noticeable among younger runners (18–39).
 
 ![Chart 3](/assets/img/ultra_analysis/finishers-v-non-finishers-count-bar-chart.png){:width="380"}
 
