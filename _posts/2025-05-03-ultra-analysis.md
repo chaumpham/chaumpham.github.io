@@ -63,7 +63,7 @@ For men, performance was remarkably consistent. From ages 18 to 59, average fini
 
 Women showed greater variation—nearly an hour difference across the same age span. But some age groups had fewer than five participants, so conclusions should be cautious.
 
-The takeaway? Youth doesn't guarantee speed. In ultra-distance races, experience, mindset, and strategy often matter more than raw physical ability. Many of the most consistent and fastest runners were in their 40s and 50s.
+The takeaway? **Youth doesn't guarantee speed.** In ultra-distance races, experience, mindset, and strategy often matter more than raw physical ability. Many of the most consistent and fastest runners were in their 40s and 50s.
 
 ## 🎻 Bonus: Exploring Distribution with Violin Plots
 
@@ -74,11 +74,11 @@ To better understand variability, I used violin plots, which combine boxplots wi
 Interesting patterns emerged:
 
 - **Men aged 30–39 had the most consistent performance**. Their finish times were tightly clustered with minimal spread.
-- The 30s, 40s, and 50s male groups all showed bimodal distributions, with most finishing around the mean and a few individuals finishing much slower.
+- **The 30s, 40s, and 50s male groups all showed bimodal distributions**, with most finishing around the mean and a few individuals finishing much slower.
 - Younger men (18–29) had more variance than their older peers. This was unexpected, given their physiological advantage.
-- Women aged 18–29 had one of the narrowest distributions, while performance variability increased with age. This may reflect a mix of factors: physiological differences, training approaches, or the smaller sample size of older female participants.
+- Women aged 18–29 had one of the narrowest distributions, while performance variability increased with age. This may be due to a very small sample size (3 participants).
 
-Beyond age 50, both male and female finish times stretched out. Some runners were still zipping along, but many took longer to finish. One male participant crossed the line at 9 hours. Gotta give him full respect!
+Beyond age 50, both male and female finish times stretched out. Some runners were still zipping along, but many took longer to finish. The sole male finisher in the 80+ age group completed the race in 9 hours and 5 minutes. You have my deepest respect.
 
 ## 💭 Final Thoughts and Discussion
 
@@ -86,6 +86,6 @@ Beyond age 50, both male and female finish times stretched out. Some runners wer
 - I expected men to be faster overall due to both physiological factors and the sport’s male-skewed participation. While the data confirmed a slight edge in men’s finish times, I was glad to see **the gap was small** and **women performed competitively across multiple age groups**.
 - What really surprised me was how strong the 40s and 50s divisions were overall. **Some of the most consistent and fastest times came from these age groups—proving that in ultra-distance running, experience and endurance often beat youth.**
 
-_I conducted the analysis in Python, using pandas, seaborn, and matplotlib. If you’re curious to see the code or run the notebook yourself, you can check it out on my [GitHub](https://github.com/chaumpham)._
+What stood out to you? Did anything surprise you? I’d love to hear your thoughts!
 
-What stood out to you? Did anything surprise you? I’d love to hear your thoughts—drop a comment or share your take!
+_I conducted the analysis in Python, using pandas, seaborn, and matplotlib. If you’re curious to see the code or run the notebook yourself, you can check it out on my [GitHub](https://github.com/chaumpham/lakefront-ultra-2025)._
