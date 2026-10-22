@@ -8,7 +8,7 @@ tags: [dataanalysis]     # TAG names should always be lowercase
 
 Every marathon runner gets the same advice: don't go out too fast. I wanted to see how many people actually follow it, and what happens to the ones who don't. So I collected the official results and split times for the 2025 NYC Marathon and looked at how 59,103 finishers paced their 26.2 miles.
 
-The short version: runners are obsessed with the clock, most of them hit the wall anyway, and the course decides where.
+The short version: all runners chase the clock, and most of them hit the wall anyway, first on the bridges and hardest on Fifth Avenue. The few who pace evenly spend the second half passing everyone else.
 
 ---
 
