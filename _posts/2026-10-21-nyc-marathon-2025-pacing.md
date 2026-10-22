@@ -88,9 +88,9 @@ To be fair, part of this is built in: if you slow down more than the people arou
 
 ## What I take away from this
 
-1. **Round numbers are powerful motivators.** If you're near a goal time late in the race, you can probably find more than you think. Thousands of runners proved it.
-2. **The real race starts at 20K.** For most runners, the first 15K feels easy. The bridges at 20-25K and the Fifth Avenue climb after 35K are where your race is decided, so pace the first half as if you'll need something left for them.
-3. **Even pacing is rare, and that's why it pays.** Only about 1 in 13 finishers ran a negative split. Those who did spent the second half passing thousands of people.
+1. **A goal time is worth chasing.** When a goal is within reach late in the race, most of us have more left than we think. That spike at 4:00 shows how much the goal means to runners.
+2. **The race really starts at 20K.** The first 15K feels easy for almost everyone. The bridges between 20K and 25K and the Fifth Avenue climb in the last few miles are where your race is decided, so run the first half like you’ll need something left for them.
+3. **Even pacing is rare, and that’s why it pays.** Only about 1 in 13 finishers ran a negative split, and they spent the second half passing thousands of people.
 
 ---
 
