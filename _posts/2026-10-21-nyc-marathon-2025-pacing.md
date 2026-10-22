@@ -8,7 +8,7 @@ tags: [dataanalysis]     # TAG names should always be lowercase
 
 Every marathon runner gets the same advice: don't go out too fast. I wanted to see how many people actually follow it, and what happens to the ones who don't. So I collected the official results and split times for the 2025 NYC Marathon and looked at how 59,103 finishers paced their 26.2 miles.
 
-The short version: all runners chase the clock, and most of them hit the wall anyway, first on the bridges and hardest on Fifth Avenue. The few who pace evenly spend the second half passing everyone else.
+In short, all runners chase the clock, and most of them eventually "hit the wall," first on the bridges and hardest on Fifth Avenue. The few who pace evenly spend the second half passing everyone else.
 
 ---
 
@@ -22,7 +22,7 @@ Look at the spike just before 4:00. For both men and women, the five minutes lea
 
 ## 1. Runners sprint to beat the clock
 
-When I counted finishers minute by minute, the pattern got sharper. **602 runners finished at 3:58 and 580 at 3:59, but only 395 at 4:00.** In the five minutes before four hours, 2,674 people crossed the line, compared with 1,910 in the five minutes after: **1.4 times as many**.
+When I counted the finishers minute by minute, the pattern got sharper. 602 runners finished at 3:58 and 580 at 3:59, but only 395 at 4:00. In the five minutes before four hours, 2,674 people crossed the line, compared with 1,910 in the five minutes after: **1.4 times as many**.
 
 ![Finishers per minute, with the five minutes before each round-number goal highlighted](/assets/img/nyc_marathon_2025/02_round_number_barriers.png)
 
@@ -37,9 +37,9 @@ The same pattern shows up at every major goal time:
 | 5:00 | 1,709 | 1,339 | **1.28** |
 | 5:30 | 1,024 | 897 | 1.14 |
 
-To check this isn't just random noise, I ran the same comparison at times nobody aims for (3:10, 3:40, 4:10, 4:40, 5:10). Those ratios all fall between **0.92 and 1.06**. The bunching only happens at round numbers, and it's strongest at the "big" ones: 3, 4 and 5 hours.
+To check this isn't just random noise, I ran the same comparison at times nobody aims for (3:10, 3:40, 4:10, 4:40, 5:10). Those ratios all fall between 0.92 and 1.06. The bunching only happens at round numbers, and it's strongest at the common goals: 3, 4 and 5 hours.
 
-Anyone who’s run a marathon knows the feeling: you check your watch late in the race, see a goal time still within reach, and find a way to dig deeper. The data shows thousands of people doing exactly that.
+Finishing a marathon is an impressive achievement at any age, gender, or ability. Finishing it under four hours is a milestone a lot of recreational runners aim for. So when they see 3:55 on the clock and know they are five minutes from that goal, it’s time to dig deep.
 
 ## 2. Almost everyone slows down, and slower runners slow down more
 
@@ -52,7 +52,7 @@ Two patterns stand out:
 - **Slowdown grows with finish time.** Sub-3-hour men slowed by a median of 4%. Men finishing in 5 to 6 hours slowed by 20%, which is about 30 minutes lost in the second half alone.
 - **Women pace more evenly than men at every level below elite.** In the 4-5 hour band, the median man slowed 15% while the median woman slowed 9%, and women were twice as likely to run a negative split (9.0% vs 4.4%). This matches research on other big marathons, which suggests men are more likely to start at a pace they can't sustain.
 
-At the very top, all ten elite men ran negative splits; the median elite man was about 1% *faster* in the second half. That's what racing tactics look like when everyone saves something for the end.
+It's okay if you didn’t run a negative split. The top 10 men were the only group in the whole race whose typical runner sped up in the second half, and only by about 1%. Even the top 10 women slowed by a median of 3%, and just 3 of them ran a negative split. Among sub-3-hour men, a fast crowd by any standard, only about 1 in 7 managed it. So don’t feel bad if you didn’t pull it off this time around.
 
 ## 3. The course decides where it hurts
 
@@ -65,11 +65,11 @@ For the first 15K, every group holds its pace. Then the lines separate:
 - **20-25K:** the first real jump. This stretch includes the Pulaski Bridge at the halfway mark and the long climb onto the **Queensboro Bridge**. The slowest group (6h+) is already running 21% slower than in their first 15K.
 - **25-30K:** a brief recovery. Coming down off the bridge onto First Avenue, with its famous wall of noise, most groups speed up slightly, and the 4-5 hour group at least stops slowing down.
 - **30-40K:** the wall. Through the Bronx and back into Manhattan, then up the gradual climb of **Fifth Avenue** toward Central Park, pace falls off for every group. Runners in the 4-5 hour band are 18-19% slower here than at the start, and even sub-3-hour runners are about 8% slower.
-- **40K to finish:** everyone speeds up again for the last 2.2K. The finish line pulls people in.
+- **40K to finish:** everyone speeds up again for the last 2.2K. The finish line gives runners a second wind.
 
 The biggest climbs on the course are the bridges, and they line up with the biggest jumps in pace. NYC is a fast course on paper, but its hills are placed exactly where tired legs feel them most.
 
-The timing also depends on the runner. **65% of sub-3-hour runners never had a 5K segment more than 10% slower than their opening pace.** In the 6h+ group, only 4% avoided it, and over half were already 10% slower by 15-20K.
+When people hit the wall also depends on the runner. **65% of sub-3-hour runners never had a 5K segment more than 10% slower than their opening pace.** In the 6h+ group, only 4% managed that, and over half were already 10% slower by 15-20K. I don’t think this is only about fitness. The data can’t tell me how many marathons each person has run, but my guess is it comes down to experience. Running under three hours usually takes years of training and racing, and those runners have learned how fast they can start and still hold their pace at mile 20. Further back in the field, more people are likely running their first marathon, and when the first 15K feels easy, it’s tempting to go out too fast.
 
 ## 4. Even pacing pays off, in places
 
@@ -84,13 +84,13 @@ In every finish band, the pattern is the same: **the more evenly you paced, the 
 
 That's a swing of more than 14,000 places between two runners who might have crossed halfway side by side.
 
-To be fair, part of this is built in: if you slow down more than the people around you, you lose places almost by definition. The interesting part is the size of the effect, and how few people are on the winning side of it. In the 4-5 hour band, 5,138 runners slowed by 20% or more, while only 1,478 ran a negative split.
+Of course, some of this is obvious. If you slow down more than the people around you, you’re going to lose places. What surprised me is how big the swing is (14,000 places is almost a quarter of the whole field) and how few people end up on the right side of it. In the 4-5 hour band, 5,138 runners slowed by 20% or more. Only 1,478 ran a negative split.
 
 ## What I take away from this
 
 1. **A goal time is worth chasing.** When a goal is within reach late in the race, most of us have more left than we think. That spike at 4:00 shows how much the goal means to runners.
-2. **The race really starts at 20K.** The first 15K feels easy for almost everyone. The bridges between 20K and 25K and the Fifth Avenue climb in the last few miles are where your race is decided, so run the first half like you’ll need something left for them.
-3. **Even pacing is rare, and that’s why it pays.** Only about 1 in 13 finishers ran a negative split, and they spent the second half passing thousands of people.
+2. **The race really starts at 20K.** The bridges between 20K and 25K and the Fifth Avenue climb in the last few miles are where your race is decided. Experienced runners seem to know this, so run the first half like you’ll need something left for those climbs.
+3. **Even pacing is rare, and that’s why it pays.** Only about 1 in 13 finishers ran a negative split, and they spent the second half passing thousands of people. Talent is great, but in a race like the marathon, experience matters just as much.
 
 ---
 
