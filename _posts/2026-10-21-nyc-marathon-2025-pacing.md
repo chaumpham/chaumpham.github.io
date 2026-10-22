@@ -39,7 +39,7 @@ The same pattern shows up at every major goal time:
 
 To check this isn't just random noise, I ran the same comparison at times nobody aims for (3:10, 3:40, 4:10, 4:40, 5:10). Those ratios all fall between **0.92 and 1.06**. The bunching only happens at round numbers, and it's strongest at the "big" ones: 3, 4 and 5 hours.
 
-A finishing time is a continuous number, but runners treat it like a pass/fail grade. Thousands of people found something extra in the last mile because a round number was within reach.
+Anyone who’s run a marathon knows the feeling: you check your watch late in the race, see a goal time still within reach, and find a way to dig deeper. The data shows thousands of people doing exactly that.
 
 ## 2. Almost everyone slows down, and slower runners slow down more
 
