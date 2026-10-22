@@ -8,7 +8,7 @@ tags: [dataanalysis]     # TAG names should always be lowercase
 
 Every marathon runner gets the same advice: don't go out too fast. I wanted to see how many people actually follow it, and what happens to the ones who don't. So I collected the official results and split times for the 2025 NYC Marathon and looked at how 59,103 finishers paced their 26.2 miles.
 
-In short, all runners chase the clock, and most of them eventually "hit the wall," first on the bridges and hardest on Fifth Avenue. The few who pace evenly spend the second half passing everyone else.
+In short, most runners chase the clock, and most of them eventually "hit the wall," first on the bridges and hardest on Fifth Avenue. The few who pace evenly spend the second half passing everyone else.
 
 ---
 
@@ -39,7 +39,7 @@ The same pattern shows up at every major goal time:
 
 To check this isn't just random noise, I ran the same comparison at times nobody aims for (3:10, 3:40, 4:10, 4:40, 5:10). Those ratios all fall between 0.92 and 1.06. The bunching only happens at round numbers, and it's strongest at the common goals: 3, 4 and 5 hours.
 
-Finishing a marathon is an impressive achievement at any age, gender, or ability. Finishing it under four hours is a milestone a lot of recreational runners aim for. So when they see 3:55 on the clock and know they are five minutes from that goal, it’s time to dig deep.
+Finishing a marathon is an impressive achievement at any age, gender or ability. Finishing in under four hours is a milestone a lot of recreational runners aim for. So when they see 3:55 on the clock and know they are five minutes from that goal, it’s time to dig deep. The data shows thousands of people doing exactly that.
 
 ## 2. Almost everyone slows down, and slower runners slow down more
 
@@ -52,7 +52,7 @@ Two patterns stand out:
 - **Slowdown grows with finish time.** Sub-3-hour men slowed by a median of 4%. Men finishing in 5 to 6 hours slowed by 20%, which is about 30 minutes lost in the second half alone.
 - **Women pace more evenly than men at every level below elite.** In the 4-5 hour band, the median man slowed 15% while the median woman slowed 9%, and women were twice as likely to run a negative split (9.0% vs 4.4%). This matches research on other big marathons, which suggests men are more likely to start at a pace they can't sustain.
 
-It's okay if you didn’t run a negative split. The top 10 men were the only group in the whole race whose typical runner sped up in the second half, and only by about 1%. Even the top 10 women slowed by a median of 3%, and just 3 of them ran a negative split. Among sub-3-hour men, a fast crowd by any standard, only about 1 in 7 managed it. So don’t feel bad if you didn’t pull it off this time around.
+Very few people pull it off, and even the elite find it hard. The top 10 men were the only group in the whole race whose typical runner sped up in the second half, and only by about 1%. Even the top 10 women slowed by a median of 3%, and just 3 of them ran a negative split. Among sub-3-hour men, a fast crowd by any standard, only about 1 in 7 managed it. So don’t feel bad if you didn’t pull it off this time around.
 
 ## 3. The course decides where it hurts
 
