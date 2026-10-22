@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Clock and the Wall: What 59,000 NYC Marathon Finishers Reveal About Pacing"
-description: An analysis of every finisher's 5K splits from the 2025 TCS New York City Marathon
+title: "The Clock and the Wall: Why Marathon Pacing Takes Practice"
+description: Pacing lessons from the 5K splits of all 59,103 finishers of the 2025 TCS New York City Marathon
 date: 2026-10-21 09:00:00 -0500
 tags: [dataanalysis]     # TAG names should always be lowercase
 ---
