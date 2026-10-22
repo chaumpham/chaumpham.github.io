@@ -18,7 +18,7 @@ In 2025, **31,855 men, 27,110 women and 138 nonbinary runners** finished the rac
 
 ![Finish time distribution for men and women](/assets/img/nyc_marathon_2025/01_finish_distribution.png)
 
-Look at the bar just before 4:00. In both distributions, the five minutes leading up to four hours are the tallest of the whole race, and the bar right after drops off sharply. That isn't a coincidence.
+Look at the spike just before 4:00. For both men and women, the five minutes leading up to the four-hour mark are the tallest bar on the chart, and the bar right after drops off sharply. Breaking four hours is the classic goal for fit recreational runners, so it’s nice to see the data confirm what every runner already knows.
 
 ## 1. Runners sprint to beat the clock
 
